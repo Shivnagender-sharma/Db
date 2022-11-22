@@ -1,0 +1,14 @@
+{
+    "_id" : {
+        "id" : UUID("b3ebd84d-b2b4-4bbc-81fe-4c547c12b4ad"),
+        "uid" : BinData(0, "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=")
+    },
+    "lastUse" : ISODate("2022-11-22T14:23:09.336+0000")
+}
+{
+    "_id" : {
+        "id" : UUID("a78a1b0c-7f23-4ea2-bb2a-d278faca0efd"),
+        "uid" : BinData(0, "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=")
+    },
+    "lastUse" : ISODate("2022-11-22T14:13:09.334+0000")
+}

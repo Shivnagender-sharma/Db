@@ -1,0 +1,73 @@
+{
+    "_id" : ObjectId("63773235d335502b76254dd4"),
+    "name" : "Peter",
+    "mail" : "peter@gmail.com",
+    "department" : {
+        "department_name" : "Computer Science",
+        "location" : "INDIA"
+    }
+}
+{
+    "_id" : ObjectId("6377325ed335502b76254dd9"),
+    "name" : "John",
+    "mail" : "john@gmail.com"
+}
+{
+    "_id" : ObjectId("637733b402fedc1385584d35"),
+    "name" : "John",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("637733d102fedc1385584d36"),
+    "name" : "John",
+    "mail" : "john2@yahoo.com",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("6377348d02fedc1385584d38"),
+    "name" : "John",
+    "mail" : "john1@yahoo.com",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("63775bf68da189304cad70f0"),
+    "name" : "John",
+    "mail" : "ram111@yahoo.com",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("637b6a8cd335502b76254e3d"),
+    "name" : "Raj_2",
+    "mail" : "raj2@gmail.com",
+    "department" : {
+        "location" : "INDIA"
+    },
+    "subjects" : [
+        {
+            "subject_name" : "Kotlin",
+            "marks_obtained" : "90"
+        },
+        {
+            "subject_name" : "C++",
+            "marks_obtained" : "70"
+        }
+    ]
+}
+{
+    "_id" : ObjectId("637b6aced335502b76254e42"),
+    "name" : "Amar",
+    "mail" : "Am@yahoo.com",
+    "department" : {
+        "location" : "INDIA"
+    },
+    "subjects" : [
+        {
+            "subject_name" : "Kotlin",
+            "marks_obtained" : "90"
+        },
+        {
+            "subject_name" : "C++",
+            "marks_obtained" : "70"
+        }
+    ]
+}

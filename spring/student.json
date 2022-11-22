@@ -1,0 +1,207 @@
+{
+    "_id" : ObjectId("63737988f5e7d22342437889"),
+    "name" : "John",
+    "mail" : "john@gmail.com"
+}
+{
+    "_id" : ObjectId("63737b13f5e7d2234243788c"),
+    "name" : "Peter",
+    "mail" : "peter@gmail.com",
+    "department" : {
+        "department_name" : "Computer Science",
+        "location" : "INDIA"
+    }
+}
+{
+    "_id" : ObjectId("63737dd5f5e7d2234243788f"),
+    "name" : "Steve",
+    "mail" : "steve@gmail.com",
+    "subjects" : [
+        {
+            "subject_name" : "Java",
+            "marks_obtained" : 70.0
+        },
+        {
+            "subject_name" : "MongoDB",
+            "marks_obtained" : 80.0
+        }
+    ]
+}
+{
+    "_id" : ObjectId("6374905e96a7ad213de83bd8"),
+    "name" : "Raj_1",
+    "mail" : "raj@gmail.com",
+    "department" : {
+        "location" : "INDIA"
+    },
+    "subjects" : [
+        {
+            "subject_name" : "Java",
+            "marks_obtained" : "70"
+        },
+        {
+            "subject_name" : "C++",
+            "marks_obtained" : "70"
+        }
+    ],
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6374ce5b0933580e4d65332a"),
+    "name" : "John",
+    "mail" : "john2@yahoo.com",
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b430231b3665b942a27f"),
+    "name" : "Ram",
+    "mail" : "ram@gmail.com",
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b4a8231b3665b942a280"),
+    "name" : "Maria",
+    "mail" : "maria@gmail.com",
+    "department" : {
+        "department_name" : "Electrical",
+        "location" : "INDIA"
+    },
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b4b1231b3665b942a281"),
+    "name" : "Maria",
+    "mail" : "maria@yahoo.com",
+    "department" : {
+        "department_name" : "Electrical",
+        "location" : "INDIA"
+    },
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b4bc231b3665b942a282"),
+    "name" : "Robim",
+    "mail" : "robin@gmail.com",
+    "subjects" : [
+        {
+            "subject_name" : "Python",
+            "marks_obtained" : "40.0"
+        },
+        {
+            "subject_name" : "SQL",
+            "marks_obtained" : "60.0"
+        }
+    ],
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b4c5231b3665b942a283"),
+    "name" : "Raj_2",
+    "mail" : "raj2@gmail.com",
+    "department" : {
+        "location" : "US"
+    },
+    "subjects" : [
+        {
+            "subject_name" : "Kotlin",
+            "marks_obtained" : "90"
+        },
+        {
+            "subject_name" : "C++",
+            "marks_obtained" : "70"
+        }
+    ],
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b4dd231b3665b942a284"),
+    "name" : "Amar",
+    "mail" : "Am@yahoo.com",
+    "department" : {
+        "location" : "US"
+    },
+    "subjects" : [
+        {
+            "subject_name" : "Kotlin",
+            "marks_obtained" : "90"
+        },
+        {
+            "subject_name" : "C++",
+            "marks_obtained" : "70"
+        }
+    ],
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("6375b4e8231b3665b942a285"),
+    "name" : "John3",
+    "mail" : "john3@gmail.com",
+    "_class" : "com.deloitte.entity.Student"
+}
+{
+    "_id" : ObjectId("637712f8c0af074428a41041"),
+    "name" : "ram",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("63771cf62142fc399de994b0"),
+    "name" : "shyaam",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("637721245e359f4f901d74ac"),
+    "name" : "hello",
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("6377292a1f4ba101536a36dc"),
+    "name" : "Steve",
+    "subjects" : [
+        {
+            "marks_obtained" : NumberInt(0)
+        },
+        {
+            "marks_obtained" : NumberInt(0)
+        }
+    ],
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("63772d5ab6ff30706cdc4267"),
+    "name" : "Steve",
+    "subjects" : [
+        {
+            "marks_obtained" : NumberInt(0)
+        },
+        {
+            "marks_obtained" : NumberInt(0)
+        }
+    ],
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("63772d86b6ff30706cdc4268"),
+    "name" : "Steve",
+    "subjects" : [
+        {
+            "marks_obtained" : NumberInt(0)
+        },
+        {
+            "marks_obtained" : NumberInt(0)
+        }
+    ],
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
+{
+    "_id" : ObjectId("63772e0ab6ff30706cdc4269"),
+    "name" : "Steve",
+    "subjects" : [
+        {
+            "marks_obtained" : NumberInt(0)
+        },
+        {
+            "marks_obtained" : NumberInt(0)
+        }
+    ],
+    "_class" : "com.deloitte.SpringMongo.entity.Student"
+}
